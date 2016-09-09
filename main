@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace sts;
+
+int main()
+{
+    cout << "hello-world pro" << endl;
+}
